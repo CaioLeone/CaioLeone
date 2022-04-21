@@ -1,7 +1,7 @@
 ### Hey World 💪! Me chamo Caio Leone
 - 🔭 Trabalhando com Modelagem e Escultura para Impressão 3D
 - 🌱 Aprendendo C#, .NET 6 para Dev Back-End e me aventurando com UNITY
-- ⚡ Fun fact: Apaixonado por Tecnologia, Programação, Jogos, Escultura 3D, HQs, Ficção Historica e Punk
+- ⚡ Apaixonado por Tecnologia, Programação, Jogos, Escultura 3D, HQs, Ficção Historica e Punk
 
 ## Stack
 <div style="display: inline_block">
