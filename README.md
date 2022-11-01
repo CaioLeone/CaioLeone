@@ -1,6 +1,6 @@
 ### Hey World 💪! Me chamo Caio Leone
-- 🔭 Trabalhando com Modelagem e Escultura para Impressão 3D
-- 🌱 Aprendendo C#, .NET 6 para Dev Back-End e me aventurando com UNITY
+- 💻 Analista desenvolvedor na Stefanini Brasil
+- 🌱 Aprendendo Javascript, NodeJS e Gamedev(C# e Unity3D)
 - ⚡ Apaixonado por Tecnologia, Programação, Jogos, Escultura 3D, HQs, Ficção Historica e Punk
 
 ## Stack
@@ -12,6 +12,8 @@
   <img align="center" alt="Caio-Postgre" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Caio-Blender" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
   <img align="center" alt="Caio-Unity" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Caio-Javascript" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Caio-NodeJS" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ## Git Stats
