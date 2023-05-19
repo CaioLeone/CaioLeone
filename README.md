@@ -12,7 +12,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cs,dotnet,git,github,md,js,nodejs,mysql,postgres,threejs,unity,blender,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cs,dotnet,git,github,md,js,nodejs,mysql,postgres,sequelize,threejs,unity,blender,visualstudio,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaioLeone&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
