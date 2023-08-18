@@ -19,9 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CaioLeone&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLeone&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CaioLeone&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CaioLeone&icon=6&color=12)](https://visitcount.itsvg.in)
 
