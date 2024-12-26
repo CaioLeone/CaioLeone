@@ -1,7 +1,8 @@
 # Hey World 💪! I'm Caio Leone
 ## 💫 About Me:
-⚡ I'm a software developer analyst with a degree in Computer Science and a 3D Artist.<br>
-🖥️ Learning JavaScript, Node JS, Three JS and Game Dev (C#, Unity 3D)<br>
+⚡ I'm a Game Developer with a degree in Computer Science.<br>
+:art: 3D Artists using Blender.<br>
+🖥️ Always Learning Unity, C#, Unreal, C++, JavaScript, Node JS and Three JS<br>
 💚 Passionate about technology, coding, games, 3D sculpture, comics, historical fiction, workout and Punk Rock
 
 
