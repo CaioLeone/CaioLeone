@@ -1,6 +1,6 @@
 # Hey World 💪! I'm Caio Leone
 ## 💫 About Me:
-⚡ I'm a software developer analyst and computer science studant at Universidade Federal de Sergipe<br>
+⚡ I'm a software developer analyst with a degree in Computer Science and a 3D Artist.<br>
 🖥️ Learning JavaScript, Node JS, Three JS and Game Dev (C#, Unity 3D)<br>
 💚 Passionate about technology, coding, games, 3D sculpture, comics, historical fiction, workout and Punk Rock
 
