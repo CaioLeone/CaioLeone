@@ -1,4 +1,6 @@
-![header](https://atomicchronoscaphadam.home.blog/wp-content/uploads/2017/06/tumblr_orxctyxnkz1sqf5tdo4_400.gif?w=2500&h=)
+<p align="center">
+  <img src="https://atomicchronoscaphadam.home.blog/wp-content/uploads/2017/06/tumblr_orxctyxnkz1sqf5tdo4_400.gif?w=2500&h=" width="800"/>
+</p>
 
 # Caio Soeiro
 
@@ -25,24 +27,7 @@ I think in systems, logic and real-time behavior.
 
 ## Tech Stack
 
-**Backend**
-- Go (Golang)
-- C# / .NET
-- ASP.NET Core
-- REST APIs
-- Entity Framework
-
-**Database**
-- PostgreSQL
-- MySQL
-- SQLite
-
-**Programming**
-- JavaScript / Node.js / Three.js
-
-**Tools**
-- Git & GitHub
-- Visual Studio / VS Code
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,go,c,cs,dotnet,js,nodejs,threejs,sqlite,mysql,postgres,unity,blender,visualstudio,vscode)](https://skillicons.dev)
 
 ---
 
@@ -59,6 +44,19 @@ Backend API for managing creatures and spells in a fantasy system.
 
 ---
 
+### Metaverse System (Real-Time Multi-User Application)
+
+Real-time 3D environment with synchronized multi-user interaction.
+
+- Built a real-time client-server architecture using WebSockets (Socket.IO)
+- Implemented multi-user synchronization for shared interactions in a 3D space
+- Managed session state and real-time data flow to ensure consistency across clients
+- Developed interactive 3D environment using Three.js
+
+**Tech:** JavaScript, Three.js, Socket.IO
+
+---
+
 ### Procedural System (Game Logic Applied to Backend Thinking)
 System for dynamic object generation based on rules and constraints.
 
@@ -66,17 +64,6 @@ System for dynamic object generation based on rules and constraints.
 - Focus on scalability and reusable logic
 
 **Tech:** C#, Unity
-
----
-
-### Node.js API (Study Project)
-Simple REST API to reinforce backend fundamentals.
-
-- CRUD operations
-- Database integration
-- Route structuring and separation of concerns
-
-**Tech:** Node.js, Express, SQL
 
 ---
 
@@ -99,7 +86,7 @@ Simple REST API to reinforce backend fundamentals.
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/caioleone/
+- LinkedIn: https://www.linkedin.com/in/caiosoeiro/
 - Email: caio.soeiro.dev@gmail.com
 
 ---
@@ -116,10 +103,6 @@ Consistency beats intensity.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/forja.cibernetica/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosoeiro/) 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://caioleone.itch.io/)
-
-## Tech Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,md,go,c,cs,dotnet,js,nodejs,threejs,sqlite,mysql,postgres,sequelize,unity,blender,visualstudio,vscode)](https://skillicons.dev)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CaioLeone&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
