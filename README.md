@@ -67,6 +67,21 @@ System for dynamic object generation based on rules and constraints.
 
 ---
 
+### Boitatá 3D (In Development)
+
+A 3D snake-style game inspired by Brazilian folklore, focused on real-time systems and gameplay mechanics.
+
+- Developing core gameplay systems using Unity and C#
+- Designing and modeling the main character (Boitatá) in Blender
+- Implementing procedural behavior and object interaction systems
+- Applying structured logic similar to backend system design
+
+**Tech:** Unity, C#, Blender
+
+> Currently in active development — new features and improvements in progress
+
+---
+
 ## Currently
 
 - Deepening backend skills with Go, .NET and APIs
