@@ -1,3 +1,5 @@
+![header](https://atomicchronoscaphadam.home.blog/wp-content/uploads/2017/06/tumblr_orxctyxnkz1sqf5tdo4_400.gif?w=2500&h=)
+
 # Caio Soeiro
 
 Backend Developer focused on building scalable systems with C# and .NET.  
