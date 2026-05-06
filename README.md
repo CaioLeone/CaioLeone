@@ -4,7 +4,7 @@
 
 # Caio Soeiro
 
-Backend Developer focused on building scalable systems with C# and .NET.  
+Backend Developer focused on building scalable systems with Go, C# and .NET.  
 Background in game development, bringing strong problem-solving and system design skills.
 
 ---
@@ -27,7 +27,7 @@ I think in systems, logic and real-time behavior.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,go,c,cs,dotnet,js,nodejs,threejs,sqlite,mysql,postgres,unity,blender,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,go,c,cs,dotnet,js,nodejs,threejs,sqlite,mysql,postgres,unity,blender,visualstudio,vscode)](https://skillicons.dev)
 
 ---
 
@@ -101,7 +101,6 @@ A 3D snake-style game inspired by Brazilian folklore, focused on real-time syste
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/caiosoeiro/
 - Email: caio.soeiro.dev@gmail.com
 
 ---
@@ -114,8 +113,8 @@ Consistency beats intensity.
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caioleone.soeiro/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/forja.cibernetica/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caioleone.soeiro/) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/forja.cibernetica/) -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosoeiro/) 
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://caioleone.itch.io/)
 
